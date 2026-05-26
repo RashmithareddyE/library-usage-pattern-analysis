@@ -1,0 +1,6 @@
+Timestamp,Name,USN,Department,Year,Visit Date,Entry Time,Exit Time,Purpose of Visit,Book Category
+,APARNA,1DS24CS001,Computer Science Engineering,,,,,,Data Science
+2026-05-26 19:21:44.474375,1DS24CS063,Electrical Engineering,2nd,2026-05-27,01:15:00,19:21:00,Borrow Book,Electronics,
+05/26/2026 19:37:22,1DS24CS045,Computer Science Engineering,2nd,05/26/2026,01:30:00 AM,07:36:00 PM,Borrow Book,Electronics,
+05/26/2026 19:47:55,,1DS24CS063,Computer Science Engineering,2nd,05/26/2026,01:30:00 AM,07:47:00 PM,Study,Programming
+05/26/2026 19:49:12,,1DS24CS001,Computer Science Engineering,2nd,05/26/2026,01:00:00 AM,07:48:00 PM,Study,Programming
